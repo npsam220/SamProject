@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+   <table border="1">
+        <tr>
+            <td>蘋果</td>
+            <td>香蕉</td>
+            <td>芭樂</td>
+        </tr>
+       <tr>
+           <td>龍眼</td>
+           <td>荔枝</td>
+           <td>西瓜</td>
+       </tr>
+       <tr>
+           <td>龍眼</td>
+           <td></td>
+           <td>西瓜</td>
+       </tr>
+   </table>
+</body>
+</html>
